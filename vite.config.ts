@@ -51,7 +51,11 @@
     },
     build: {
       target: 'esnext',
+<<<<<<< HEAD
       outDir: 'build',
+=======
+      outDir: 'dist',
+>>>>>>> 2cfe5d8 (your commit message here)
     },
     server: {
       port: 3000,
